@@ -27,7 +27,7 @@ int main()
     }
 
     // ==================== CÁLCULOS ====================
-    // Promedio por estudiante
+    // ===Promedio obtenido por estudiante===
     for (int i = 0; i < 5; i++)
     {
         float suma = 0;
@@ -81,7 +81,7 @@ int main()
         }
     }
 
-    // ==================== RESULTADOS ====================
+    // ==================== RESULTADOS OBTENIDOS ====================
     printf("\n=== RESULTADOS ===\n");
 
     printf("\nPromedio de calificaciones por estudiante:\n");
