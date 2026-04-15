@@ -45,7 +45,7 @@ int main()
         prom_asig[j] = suma / 5;
     }
 
-    // Máx y mín por estudiante
+    // Máx y mín obtenidos por estudiante
     for (int i = 0; i < 5; i++)
     {
         max_est[i] = min_est[i] = calif[i][0];
